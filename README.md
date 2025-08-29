@@ -93,4 +93,4 @@ Xiaomi	   3664	              ₹143.7M	             743
 
 This dashboard helps identify sales trends, customer behavior, and performance of various brands and models across time, geography, and payment types. It’s a valuable business intelligence tool for data-driven decision-making in the mobile retail sector.
 
-Snapshot of Dashboard: https://github.com/Chandan021203/Mobile_sales_Analysis_Power-BI/blob/main/Mobile_Sales_Dashboard_.png
+Snapshot of Dashboard: ![Dashboard Preview].(https://github.com/Chandan021203/Mobile_sales_Analysis_Power-BI/blob/main/Mobile_Sales_Dashboard_.png)
